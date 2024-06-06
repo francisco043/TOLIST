@@ -15,4 +15,10 @@
 >* ``HTML``
 >* ``CSS``
 >* ``JAVASCRIPT``
->* ``HTML``
+>* ``Font Awesome``
+
+<H2>Como Utilizar<H2/>
+
+>*  Clone o repositório para o seu ambiente de desenvolvimento local utilizando o comando git clone.
+Abra o arquivo index.html em um navegador da web para acessar o aplicativo.
+Utilize as funcionalidades disponíveis para adicionar, editar, pesquisar, filtrar e gerenciar suas tarefas conforme necessário 
