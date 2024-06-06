@@ -2,7 +2,7 @@
 
 >* `` é um projeto que lista as tarefas avançadas onde os usuários podem adicionar e logar seus dados ``
 
-<h2>FUNCOES<h2/>
+<h2>FUNÇOES<h2/>
 
 >* ``Adicionar Tarefa``
 >* ``Editar Tarefa``
@@ -16,15 +16,21 @@
 >* ``CSS``
 >* ``JAVASCRIPT``
 >* ``Font Awesome``
+>* ``youtbe``
 
 <H2>Como Utilizar<H2/>
 
 >*  Clone o repositório para o seu ambiente de desenvolvimento local utilizando o comando git clone.
 Abra o arquivo index.html em um navegador da web para acessar o aplicativo.
-Utilize as funcionalidades disponíveis para adicionar, editar, pesquisar, filtrar e gerenciar suas tarefas conforme necessário
+Utilize as funcionalidades disponíveis para adicionar, editar, pesquisar, filtrar e gerenciar suas tarefas conforme necessário.
 
-CREDITOS
+<h2>CREDITOS<h2/>
 
-https://pucpredu-my.sharepoint.com/:v:/g/personal/leonardo_sidon_grupomarista_org_br/EdvhW1dXIchOgj76IU7ONr0B-Uc3xzANnbKjCdsngCOShA?e=KNchln 
 
-LINK DO MEU GUT
+>* link do youtube
+ https://www.youtube.com/watch?v=HSssE1PRQcA 
+
+
+
+>* link do meu git hub
+https://francisco043.github.io/TOLIST/tolist.html
