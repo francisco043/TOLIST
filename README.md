@@ -1,3 +1,3 @@
-<h1>PROJETO<h1/>
+<h2>PROJETO<h2/>
 
->* `` é um projeto de aplicativo de lista de tarefas avançado, onde os usuários podem adicionar, editar, pesquisar, filtrar e gerenciar suas tarefas.``
+>* `` é um projeto de lista de tarefas avançado onde os usuários podem adicionar e logar seus dados ``
