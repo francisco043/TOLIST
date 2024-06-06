@@ -4,11 +4,11 @@
 
 <h2>FUNÇOES<h2/>
 
->* ``Adicionar Tarefa``
->* ``Editar Tarefa``
->* ``Pesquisar Tarefa``
->* ``Filtrar Tarefa``
->* ``Marcar como Concluída``
+>* ``Adiciona tarefas``
+>* ``Editar tarefas``
+>* ``Pesquisa tarefas``
+>* ``Filtrar tarefas``
+>* ``Marcar como concluída``
 
 <H2>TECNOLOGIAS UTILIZADAS<H2/>
 
