@@ -7,5 +7,12 @@
 >* ``Adicionar Tarefa``
 >* ``Editar Tarefa``
 >* ``Pesquisar Tarefa``
->* ````
->* ````
+>* ``Filtrar Tarefa``
+>* ``Marcar como Concluída``
+
+<H2>TECNOLOGIAS UTILIZADAS<H2/>
+
+>* ``HTML``
+>* ``CSS``
+>* ``JAVASCRIPT``
+>* ``HTML``
